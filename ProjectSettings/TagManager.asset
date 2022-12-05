@@ -1,0 +1,78 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - FxTemporaire
+  - Obstacle
+  - RemoveObject
+  - Destination
+  - Ground
+  - Fruit
+  - GameObjectDestroyer
+  - DooRie
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Ground
+  - Fruit
+  - Player
+  - DooRie
+  - Tree
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 2641311703
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Tree
+    uniqueID: 3707931683
+    locked: 0
+  - name: Floor
+    uniqueID: 4056780869
+    locked: 0
+  - name: Foreground
+    uniqueID: 3598876895
+    locked: 0
+  - name: DooRie
+    uniqueID: 3519889359
+    locked: 0
+  - name: Fruit
+    uniqueID: 713214211
+    locked: 0
+  - name: Player
+    uniqueID: 2713972521
+    locked: 0
+  - name: UI
+    uniqueID: 76641487
+    locked: 0
+  - name: Fade
+    uniqueID: 679020245
+    locked: 0
